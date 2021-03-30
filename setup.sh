@@ -17,4 +17,3 @@ sudo cp -r . ${install_folder}
 
 # reload nginx
 sudo systemctl reload nginx
-sudo systemctl start nginx
